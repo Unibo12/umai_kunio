@@ -62,3 +62,6 @@ crashlytics-build.properties
 # 参考元 https://qiita.com/nariya/items/97afba6b7b448920cdf0
 *.log #log files, for some plugins
 *.pyc #python bytecode cache, for some plugins.
+
+# Macのディレクトリ情報ファイル 
+.DS_Store
